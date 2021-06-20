@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,300&family=Lato:wght@300&family=Roboto:wght@700&display=swap');
+
+body{
+    background-color: black;
+}
+
+h1{
+    background-color: rgb(77, 228, 207);
+    color: rgb(138, 109, 241);
+    font-size: 50 px;
+    font-family: sans-serif;
+    line-height: 70px;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-align: center;
+}
+
+a{
+    color: whitesmoke;
+    background-color: ;
+    font-family: "lato", sans-serif;
+    font-weight: normal;
+}
+img{
+    height: 100px;
+}
+
+footer{
+    color: white;
+    background-color: teal;
+    text-align: center;
+}
