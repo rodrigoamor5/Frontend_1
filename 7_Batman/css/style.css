@@ -1,0 +1,41 @@
+header{
+    line-height: 21px;
+    text-align : center;
+    background-color: #e6e6e6;
+}
+
+h1{
+    color:#005677 ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35 px;
+    line-height: 60px;
+    text-transform: uppercase ;
+    letter-spacing: 10px;
+    background-color: #c4c4c4;
+}
+
+h2{
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20 px;
+    line-height: 30px;
+    text-transform: uppercase ;
+    letter-spacing: 7px;
+    background-color: #c4c4c4;
+}
+
+p{
+    color: black;
+    font-size: 15;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ footer>p {
+     color: white;
+     text-align: center;
+     color: #FFFFFF;
+     background-color: #005677 ;
+     line-height: 37PX;
+     text-transform: uppercase;
+     font-weight: 700px;
+ }
