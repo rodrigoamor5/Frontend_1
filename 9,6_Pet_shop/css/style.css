@@ -1,25 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
+body{
+    background-color: #E5E5E5;
+}
 
 nav{
     background-color: #222222;
     color: #F3F3F3;
 }
 
+
+
+main>header{
+    background-color: #F0A83E;
+
+}
+
+main>header>ul{
+    text-align: RIGHT;
+}
+
 h1{
-    height: 62px;
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
-    background-color: #F0A83E;
+    text-align: left  
 }
-
 ul{
 
 }
 
-main.img{
+main>img{
     align; center
 }
 
@@ -34,6 +46,13 @@ h2 {
     text-align:center;
 }
 
+h3{
+    font-family: "Roboto";
+    size: 25px;
+    color: #3C2313 ;
+    text-align: center;
+}
+
 #links{
   text-align: center;
   font-family: Roboto;
@@ -42,4 +61,68 @@ h2 {
   font-size: 15px;
   line-height: 18px;
   color: #666666
+}
+
+main>footer{
+    background-color: #F0A83E;
+}
+
+body>footer{
+    background-color:#3C2313 ;
+}
+
+h4{
+    color: white;
+    font-family: Roboto;
+    font-weight: 700;
+    size: 20px;
+}
+
+body>footer>p {
+    color: #8A8787;
+    font-size: 10px;
+}
+
+.derechos{
+    font-family: "Roboto";
+    background-color: #222222;
+    line-height: 20px;    
+    color:white ;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+
+#datos{
+    text-align: center;
+    line-height: 40px;
+    background-color: #3C2313 ;
+    color: white;
+    font-family: "Roboto";
+    font-weight: 400px ;
+    font-size: 9px;
+    padding-inline-start: 0px;
+}
+
+span{
+    text-align: center;
+    font-family: "Robot",sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.fondo-naranja{
+    background-color: #F0A83E;
+}
+
+.fondo-gris{
+   background-color:#8A8787 ; 
+}
+
+.center{
+    align-content: center;
+    align-self: center;
+    align-content: center;
+    align-tracks: center;
 }
